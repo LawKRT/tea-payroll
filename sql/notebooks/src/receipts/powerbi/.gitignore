@@ -1,0 +1,4 @@
+   .env
+   receipts/
+   __pycache__/
+   .ipynb_checkpoints/
